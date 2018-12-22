@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/crimson-test-b/static/css/main.549a81a0.chunk.css"
   },
   {
-    "revision": "835caddd6d0849ec5145ac87c080c830",
+    "revision": "e5912803a15eef16248e61d26a4ad924",
     "url": "/crimson-test-b/index.html"
   }
 ];

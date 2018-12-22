@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/crimson-test-b/precache-manifest.1a2a7ca5a6e6049057881d2b5023546a.js"
+  "/crimson-test-b/precache-manifest.9c15e97cebea432362ae89c450af6f34.js"
 );
 
 workbox.clientsClaim();
